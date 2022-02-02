@@ -6,7 +6,6 @@ rencana content baru jaehyun
    ^ point yang akan dilakukan
    ^ point yang akan dilakukan
 - rencana baru dua
-- rencana baru tiga
 - rencana baru empat
 * detail rencana empat
 - rencana baru lima
