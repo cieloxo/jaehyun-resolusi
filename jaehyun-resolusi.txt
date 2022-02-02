@@ -2,3 +2,5 @@ jaehyun resolusi
 - resolusi satu
 - resolusi dua
 - resolusi tiga
+- resolusi empat
+- resolusi lima
